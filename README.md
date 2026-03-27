@@ -21,7 +21,7 @@ If you haven't already, clone the course materials repo at https://github.com/UC
 Using only vanilla HTML markup, update your yourname.html file to include:
 
 5. your name in the title bar
-6. your mane in the <h1>
+6. your mane in the `<h1>`
 7. an ordered list of your favorite foods
 8. an unordered list of your favorite movies or TV shows
 9. an 8x8 table of multiplication facts 1-8
